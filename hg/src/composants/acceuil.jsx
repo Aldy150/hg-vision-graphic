@@ -148,7 +148,7 @@ export default function () {
         <div className="bg-[#111] py-10 text-white">
   <div className="max-w-6xl mx-auto text-center">
     {/* Nombre d'années d'expérience */}
-    <div className="text-5xl font-bold text-red-600">12</div>
+    <div className="text-5xl font-bold text-red-600">3</div>
     <p className="text-lg mb-10">Années d'experiences</p>
 
     {/* Grid pour les stats */}
