@@ -62,8 +62,8 @@ export default function Contact() {
       <div className='ml-10 text-white flex-col  flex lg:flex'>
         <h1 className='font-bold text-3xl'>Contact</h1>
         <p className='mt-3 mr-3 text-white text-justify text-md font-bold'>
-          Vous pouvez vous contacter via ces informations ci-dessous, <br />
-           Nous disponibles 24h/24 et ouvert 7j/7 
+          Vous pouvez nous contacter via ces informations ci-dessous, <br />
+           Nous sommes disponibles 24h/24 et ouvert 7j/7 
         </p>
         <div className="flex flex-col mt-5">
   <h1 className="text-white font-bold text-xl border-b-4 border-[#E63946] w-max ">
